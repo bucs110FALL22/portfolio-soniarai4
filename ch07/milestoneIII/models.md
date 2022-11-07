@@ -27,7 +27,3 @@ Remember, this is to get you thinking and help me guide you. Nothing is set in s
 
 Using the example below, list each model class and its interface
 
-1. < Class Name > 
-    * __init__
-        * < description >
-    * < additional methods >

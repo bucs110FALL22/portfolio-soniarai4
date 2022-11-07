@@ -18,12 +18,12 @@ For each one below you should have a basic description of a program idea, a coup
 
 ## Project Idea 1
 
-< add your idea here >
+Personality test that customizes an avatar based on the options you choose
 
 ## Project Idea 2
 
-< add your idea here >
+Spaceshooters game 
 
 ## Project Idea 3
 
-< add your idea here >
+Build your own pizza

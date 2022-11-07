@@ -23,12 +23,36 @@ Come up with interfaces fot 3 possible classes you think you may need. Again, br
 
 ## Class Interface 1
 
-< add your interface >
-
+1. class Pizza
+   attributes:
+   1. x
+   2. y
+   3. color
+   
+   methods: 
+   1. pygame.draw.circle
+   
 ## Class Interface 2
 
-< add your interface >
+ class Toppings
+   attributes:
+   1. x
+   2. y
+   3. color
+   
+   methods:
+   1. pygame.draw.circle
+   2. pygame.draw.rectangle
+   3. pygame.draw.triangle
 
 ## Class Interface 3
 
-< add your interface >
+class Textbox
+   attributes:
+   1. text
+   2. color
+   
+   methods:
+   1. pygame.draw.roundrectangle
+   2. textRect = text.get_rect()
+
