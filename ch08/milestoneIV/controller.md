@@ -26,11 +26,16 @@ Answer the following questions about your controller class
 
 1. do you have a mainloop?
     * if you have sub loops, are they exclusive? i.e. only 1 will ever run at a time
+Yes, we do have a mainloop and our sub groups are not exclusive.
 
 2. Are you responding to events first in your loop?
+Yes, we are responding to events. 
 
-3. Are you updating models after events?
+4. Are you updating models after events?
+Yes, we are updating models after events. 
 
-4. Are you re-drawing the background, THEN each screen element every frame?
+5. Are you re-drawing the background, THEN each screen element every frame?
+We are not redrawing the background. 
 
-5. Are you calling pygame.flip() or pygame.update() at the end of your mainloop
+6. Are you calling pygame.flip() or pygame.update() at the end of your mainloop
+We are calling pygame.flip() at the end of our mainloop. 
