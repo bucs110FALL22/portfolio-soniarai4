@@ -4,9 +4,7 @@ import math
 
 
 
-pygame.init()
-window = pygame.display.set_mode(size = (500,300))
-windowsize = pygame.display.get_window_size()
+
 radius = int(windowsize[0]/2)
 center_of_screen = (windowsize[0]/2, windowsize[1]/2)
 print(center_of_screen[0])
